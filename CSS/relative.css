@@ -1,0 +1,32 @@
+#row{
+    border: solid 1px white;
+    height: 500px;
+    width:300px;
+    background-color: rgb(7, 8, 8);
+    position:relative;
+    left: 600px;
+}
+#col{
+    border: solid 1px white;
+    height: 100px;
+    width:200px;
+}
+#c1{
+    position: absolute;
+    background-color: rgb(170, 95, 25);
+}
+#c2{
+    position: absolute;
+    left: 110px;
+    background-color: rgb(25, 146, 41);
+}
+#c3{
+    position: absolute;
+    left:220px ;
+    background-color: rgb(28, 18, 168);
+}
+#c4{
+    position: absolute;
+    left: 330px;
+    background-color: rgb(224, 22, 134);
+}

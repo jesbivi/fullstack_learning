@@ -1,0 +1,33 @@
+body{
+    background-color: black;
+}
+div{
+    border: solid 1px white;
+    height: 710px;
+    width:298px;
+    float: left;
+    background-color: rgb(7, 8, 8);
+}
+div img{
+    height: 300px;
+    width: 298px;
+}
+div p{
+    padding-left:15px;
+    color: white;
+}
+div h1{
+    text-align: center;
+    color: white;
+}
+div div{
+    border: solid 1px white;
+    height: 50px;
+    width:260px;
+    margin-left: 10px;
+}
+div div h4{
+    color: white;
+    text-align: center;
+    padding-bottom: 80px;
+}

@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Ephesis&display=swap');
+h1
+{
+    color: blue;
+    text-decoration: underline;
+    text-align: center;
+}
+    #a
+ { 
+     color: chocolate;
+ }
+ div{
+     font-size: 20px;
+     font-family: 'Ephesis', cursive;
+     border: solid 5px black;
+     height: 100px;
+     width:500px;
+     float: left;
+ }
+ #a1{
+     margin-left: 10px;
+ }

@@ -1,0 +1,27 @@
+body{
+    background-color: rgb(50, 114, 108);
+}
+h2{
+    text-align: center;
+    color: rgb(238, 124, 210);
+}
+div{
+    border: solid 1px white;
+    height: 700px;
+    width:372px;
+    float: left;
+    background-color: rgb(67, 214, 207);
+}
+div img{
+    height: 450px;
+    width: 372px;
+}
+div h3{
+    text-align: center;
+}
+div h5{
+    text-align: center;
+}
+div p{
+    text-align: center;
+}

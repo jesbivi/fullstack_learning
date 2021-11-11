@@ -1,0 +1,30 @@
+body{
+    background-color: rgb(67, 214, 207);
+}
+h2{
+    text-align: center;
+    color: rgb(238, 124, 210);
+}
+div{
+    border: solid 1px white;
+    background-color: rgb(129, 117, 163);
+}
+.col{
+    position:relative;
+    left: 0px;
+}
+div img{
+    height: 250px;
+    width: 412px;
+    
+}
+div h3{
+    text-align: center;
+    
+}
+div h5{
+    text-align: center;
+}
+div p{
+    text-align: center;
+}

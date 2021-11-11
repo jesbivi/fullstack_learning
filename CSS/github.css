@@ -1,0 +1,38 @@
+body{
+    text-align: center;
+}
+
+#row{
+    border: solid 1px rgb(24, 23, 23);
+    height: 230px;
+    width:320px;
+    background-color: rgb(240, 245, 245);
+    position:relative;
+    left: 600px;
+}
+#col{
+    border: solid 1px rgb(24, 23, 23);
+    height: 30px;
+    width:280px;
+    margin-left: 620px;
+}
+div label{
+    position:absolute;
+    left:10px;
+}
+#c1{
+    margin-top: 5px;
+}
+#b1{
+    position: absolute;
+    right: 10px;
+}
+button{
+    width: 260px;
+    height: 40px;
+    background-color: darkgreen;
+}
+div input{
+    width: 260px;
+    height: 30px;
+}

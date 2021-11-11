@@ -1,0 +1,25 @@
+#row{
+    border: solid 1px white;
+    height: 300px;
+    width:600px;
+    background-color: rgb(28, 196, 196);
+    display: flex;
+    justify-content: space-between;
+}
+.col{
+    border: solid 1px rgb(17, 15, 15);
+    height: 100px;
+    width:100px;
+}
+.c1{
+    background-color: rgb(170, 95, 25);
+}
+.c2{
+    background-color: rgb(25, 146, 41);
+}
+.c3{
+    background-color: rgb(28, 18, 168);
+}
+.c4{
+    background-color: rgb(224, 22, 134);
+}
